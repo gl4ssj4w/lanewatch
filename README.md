@@ -15,4 +15,4 @@ Set `RATE_SOURCE` to the JSON endpoint you're pulling from. Be polite: one reque
 
 ## Running it unattended
 
-Runs on a Pi 4 at home from cron (see `deploy/pi-setup.md`). Logs go to `logs/scraper.log`.
+Runs on a Pi 4 from cron (see `deploy/pi-setup.md`). Logs go to `logs/scraper.log`.
